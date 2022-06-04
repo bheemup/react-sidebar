@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  position: fixed;
+ border-radius: 10px;
+  width: 240px;
+  height: 1000px;
+  background-color: rgb(213, 223, 223);
+  color: rgb(19, 18, 18);
+  padding-top: 20px;
+  padding-left: 20px;
+}
+.box{
+  font-size: 25px;
+  color: rgb(16, 16, 17);
+ padding: 20px;
+ font-weight: bolder;
+}
+
+.flex:hover{
+  background-color: rgb(6, 248, 228);
+  border-radius: 10px;
+  cursor: pointer;
+
+}
